@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\e41877u\Documents\Software_engineering\software_engineering_project_2025\src\basic\message.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\e41877u\Documents\Software_engineering\software_engineering_project_2025\include\basic\message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\e41877u\Documents\Software_engineering\software_engineering_project_2025\src\basic\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1F027CE4-FC8D-3505-8C65-6F2EE9B9E92A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{580B1A89-1ADA-3C0A-B9A5-3CB4E2291CAD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
