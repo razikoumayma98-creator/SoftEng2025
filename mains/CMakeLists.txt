@@ -1,6 +1,3 @@
-
-# add the executable target named HelloWorld
 add_executable(HelloWorld hello.cpp)
-
-# add binary tree to the list of paths to search includes
-target_link_libraries(HelloWorld PUBLIC basic)
+target_link_libraries(HelloWorld PRIVATE basic)
+install(TARGETS HelloWorld DESTINATION bin)
